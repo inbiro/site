@@ -1,0 +1,72 @@
+*{
+box-sizing: border-box;
+
+}
+body{
+    margin:0;
+    padding: 0;
+}
+
+nav{
+    height: 100px;
+    background-color: slateblue;
+}
+
+ul{
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    padding: 20px;
+    text-align: center;
+    
+}
+
+h1{
+    text-align: center;
+    background-color: chartreuse;
+    border: solid;
+    border-color: black;
+
+    
+}
+
+a{
+    color: chartreuse;
+    text-decoration: none;
+    padding: 10px;
+}
+a:hover{
+    color:black;
+    font-size: 32px;
+    background-color: chartreuse;
+    border: solid;
+    border-color:black;
+       
+
+}
+
+
+
+
+p{
+    text-align: center;
+}
+#contato{
+    text-align: center;
+    background-color:  slateblue;
+}
+
+img{
+    height: 300px;
+    width: 300px;
+    margin: auto;
+ display: block;
+}
+
+footer{
+    background-color: chartreuse;
+    border: solid;
+    border-color: black;
+}
+
+
